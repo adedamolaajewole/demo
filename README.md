@@ -1,4 +1,4 @@
-#Demo Project
+# Demo Project
  This is a simple readme file 
-##Heading
+## Heading
 just something going on
